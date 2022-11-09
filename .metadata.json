@@ -2,5 +2,9 @@
   {
     "package": "natstrat",
     "oncran": true
+  },
+  {
+    "package": "optrefine",
+    "oncran": true
   }
 ]

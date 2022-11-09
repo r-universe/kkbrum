@@ -8,3 +8,8 @@
 	url = https://github.com/kkbrum/natstrat
 	shallow = true
 	registered = true
+[submodule "optrefine"]
+	path = optrefine
+	url = https://github.com/kkbrum/optrefine
+	shallow = true
+	registered = true
