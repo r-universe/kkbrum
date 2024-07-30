@@ -8,6 +8,3 @@
 [submodule "optrefine"]
 	path = optrefine
 	url = https://github.com/kkbrum/optrefine
-[submodule "triplesmatch"]
-	path = triplesmatch
-	url = https://github.com/cran/triplesmatch
