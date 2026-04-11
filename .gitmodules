@@ -5,6 +5,9 @@
 [submodule "natstrat"]
 	path = natstrat
 	url = https://github.com/kkbrum/natstrat
+[submodule "observationalBlocks"]
+	path = observationalBlocks
+	url = https://github.com/kkbrum/observationalblocks
 [submodule "optrefine"]
 	path = optrefine
 	url = https://github.com/kkbrum/optrefine
