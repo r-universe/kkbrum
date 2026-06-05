@@ -13,4 +13,4 @@
 	url = https://github.com/kkbrum/optrefine
 [submodule "triplesmatch"]
 	path = triplesmatch
-	url = https://github.com/cran/triplesmatch
+	url = https://github.com/kkbrum/triplesmatch
